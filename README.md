@@ -23,12 +23,17 @@ java -Dauto -Dc=pra -Dfiletypes=html -jar C:\Users\edeni\Downloads\Compressed\so
 
 Como teste foram adicionadas apenas 4 páginas no index com cada index com cerca de 1kb de tamanho as páginas inseridas foram: 
 (isso depois do tratamento do primeiro algoritmo, o de download de páginas)
+
 forro-dos-40---especial-dia-dos-namorados__63659.html
+
 o-2016-registration-july-1st-july-4th-registration-15641726826affehomecard.html
+
 www.eventbrite.com.br.html
+
 www.sympla.com.br.html
 
 Um exemplo de pesquisa foi:
+
 Qual palavra tu desejas procurar?
 evento
 
