@@ -2,6 +2,8 @@ require 'nokogiri'
 require 'open-uri'
 require 'net/https'
 require 'open_uri_redirections'
+print "Qual a palavra que tu desejas procurar?"
+print "\n"
 text = gets
 
 def count_em(string, substring) #função pra acontar quantas vezes uma string aparece dentro de outra string
