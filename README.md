@@ -1,8 +1,8 @@
 Acadêmicos:
 
-Christopher Renkavieski
+Christopher
 
-Edenilson Jonatas dos Passos
+Edenilson
 
 solr start //inicia o server standalone do Solr
 
